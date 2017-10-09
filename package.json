@@ -1,0 +1,19 @@
+{
+  "name": "scrumtracker",
+  "version": "1.0.0",
+  "description": "scrum ticket tracker with react and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-kang/scrumtracker.git"
+  },
+  "author": "David Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-kang/scrumtracker/issues"
+  },
+  "homepage": "https://github.com/d-kang/scrumtracker#readme"
+}
